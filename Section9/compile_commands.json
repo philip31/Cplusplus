@@ -1,0 +1,13 @@
+[{
+  "file": "/home/philip/Documents/Cplusplus/Section9/challenge/main.cpp",
+  "directory": "/home/philip/Documents/Cplusplus/Section9/challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/Cplusplus/Section9/challenge/main.cpp -o /home/philip/Documents/Cplusplus/Section9/challenge/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/philip/Documents/Cplusplus/Section9/for/main.cpp",
+  "directory": "/home/philip/Documents/Cplusplus/Section9/for",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/Cplusplus/Section9/for/main.cpp -o /home/philip/Documents/Cplusplus/Section9/for/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/philip/Documents/Cplusplus/Section9/switch/main.cpp",
+  "directory": "/home/philip/Documents/Cplusplus/Section9/switch",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/Cplusplus/Section9/switch/main.cpp -o /home/philip/Documents/Cplusplus/Section9/switch/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
