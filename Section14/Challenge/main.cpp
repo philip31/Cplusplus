@@ -1,65 +1,67 @@
+// Section 14
+// Challenge
 #include <iostream>
-#include <string>
+#include "Mystring.hpp"
 
 using namespace std;
 
-class Player {
-private:
-    string *name;
-public:
-    Player();
-    Player(const string*);
-    Player &operator=(const Player &);
-    Player &operator=(Player &&);
-    ~Player();
-};
-
-Player::Player(): name{nullptr} { cout << "Default constructor called" ;}
-
-Player::Player(const string *s)
-    : name{nullptr}
-{
-    cout << "Overloaded constructor called" << endl;
-    if (s == nullptr)
-        return;
-    name = new string(*s);
+int main() {
     
-}
-
-Player::~Player()
-{
-    cout << "Destructor called for " << *name << endl;
-    delete name;
-}
-
-Player &Player::operator=(const Player &rhs)
-{
-    cout << "Assignment copy operator called" << endl;
     
-    if (this == &rhs)
-        return *this;
-        
-    delete name;
-    name = new string();
-    name = rhs.name;
-    return *this;
-}
+    cout << boolalpha << endl;
+    Mystring a {"frank"};
+    Mystring b {"frank"};
 
-Player &Player::operator=(Player &&rhs)
-{
-    cout << "Assignment move operator called" << endl;
+    cout << (a==b) << endl;         // true
+    cout << (a!=b) << endl;          // false
     
-    if (this == &rhs)
-        return *this;
-        
-    delete name;
-    name = rhs.name;
-    rhs.name = nullptr;
-    return *this;
+    b = "george";
+    cout << (a==b) << endl;         // false
+    cout << (a!=b) << endl;          // true
+    cout << (a<b) << endl;          // true
+    cout << (a>b) << endl;           // false
+
+    Mystring s1 {"FRANK"};
+    s1 = -s1;       
+    cout << s1 << endl;               // frank              
+
+    s1 = s1 + "*****";
+    cout << s1 << endl;               // frank*****       
+   
+    s1 += "-----";                        // frank*****-----
+    cout << s1 << endl;
+  
+    Mystring s2{"12345"};
+    s1 = s2 * 3;
+    cout << s1 << endl;              // 123451234512345
+    
+    Mystring s3{"abcdef"};  
+    s3 *= 5;
+    cout << s3 << endl;             // abcdefabcdefabcdefabcdefabcdef
+   
+    Mystring s = "Frank";
+    ++s;
+    cout << s << endl;                  // FRANK
+     
+    s = -s; 
+    cout << s << endl;                  // frank
+    
+    Mystring result;
+    result = ++s;                           
+    cout << s << endl;                  // FRANK
+    cout << result << endl;           // FRANK
+    
+    s = "Frank";
+    s++;
+    cout << s << endl;                  // FRANK
+    
+    s = -s;
+    cout << s << endl;                  // frank
+    result = s++;
+    cout << s << endl;                  // FRANK
+    cout << result << endl;           // frank
+    
+
+    return 0;
 }
 
-
-int main(){
-    Player p1;
-    p1 = string("something");
-}

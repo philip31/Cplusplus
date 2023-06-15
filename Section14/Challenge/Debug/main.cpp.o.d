@@ -1,1 +1,2 @@
-Debug/main.cpp.o: main.cpp
+Debug/main.cpp.o: main.cpp Mystring.hpp
+Mystring.hpp:

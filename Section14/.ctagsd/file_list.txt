@@ -1,1 +1,3 @@
-/home/philip/Documents/Cplusplus/Section14/Challenge/main.cpp
+/home/philip/Documents/studii/Cplusplus/Section14/Challenge/Mystring.hpp
+/home/philip/Documents/studii/Cplusplus/Section14/Challenge/main.cpp
+/home/philip/Documents/studii/Cplusplus/Section14/Challenge/Mystring.cpp
