@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/philip/Documents/studii/Cplusplus/Section17/Section17.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="/home/philip/Documents/studii/Cplusplus/Section17/Section17.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/philip/Documents/studii/Cplusplus/Section17/Challenge/main.cpp" Name="FileName"/>
+      <int Value="68" Name="FirstVisibleLine"/>
+      <int Value="81" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/usr/include/c++/11/bits/alloc_traits.h" Name="FileName"/>
+      <int Value="504" Name="FirstVisibleLine"/>
+      <int Value="515" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/usr/include/c++/11/ext/new_allocator.h" Name="FileName"/>
+      <int Value="150" Name="FirstVisibleLine"/>
+      <int Value="161" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

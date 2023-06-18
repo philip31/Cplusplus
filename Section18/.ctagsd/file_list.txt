@@ -1,0 +1,16 @@
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Description.txt
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Trust_Account.h
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Trust_Account.cpp
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/main.cpp
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account.cpp
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/InsufficentFundsException.h
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account.h
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account_Util.h
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Checking_Account.cpp
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account_Util.cpp
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Checking_Account.h
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Savings_Account.cpp
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/I_Printable.cpp
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/I_Printable.h
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/IllegalBalanceException.h
+/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Savings_Account.h

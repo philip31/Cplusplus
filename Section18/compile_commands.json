@@ -1,0 +1,61 @@
+[{
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Trust_Account.h",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Trust_Account.h -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Trust_Account.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Trust_Account.cpp",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Trust_Account.cpp -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Trust_Account.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/main.cpp",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/main.cpp -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account.cpp",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account.cpp -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/InsufficentFundsException.h",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/InsufficentFundsException.h -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/InsufficentFundsException.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account.h",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account.h -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account_Util.h",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account_Util.h -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account_Util.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Checking_Account.cpp",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Checking_Account.cpp -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Checking_Account.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account_Util.cpp",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account_Util.cpp -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Account_Util.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Checking_Account.h",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Checking_Account.h -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Checking_Account.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Savings_Account.cpp",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Savings_Account.cpp -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Savings_Account.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/I_Printable.cpp",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/I_Printable.cpp -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/I_Printable.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/I_Printable.h",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/I_Printable.h -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/I_Printable.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/IllegalBalanceException.h",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/IllegalBalanceException.h -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/IllegalBalanceException.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge/Savings_Account.h",
+  "directory": "/home/philip/Documents/studii/Cplusplus/Section18/Challenge",
+  "command": "/usr/bin/g++-11 -c /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Savings_Account.h -o /home/philip/Documents/studii/Cplusplus/Section18/Challenge/Savings_Account.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }]
