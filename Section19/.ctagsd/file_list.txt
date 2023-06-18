@@ -1,0 +1,6 @@
+/home/philip/Documents/studii/Cplusplus/Section19/Challenge3/romeoandjuliet.txt
+/home/philip/Documents/studii/Cplusplus/Section19/Challenge3/main.cpp
+/home/philip/Documents/studii/Cplusplus/Section19/Challenge2/responses.txt
+/home/philip/Documents/studii/Cplusplus/Section19/Challenge2/description.txt
+/home/philip/Documents/studii/Cplusplus/Section19/Challenge2/main.cpp
+/home/philip/Documents/studii/Cplusplus/Section19/Challenge/main.cpp
