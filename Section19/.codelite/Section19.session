@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/home/philip/Documents/studii/Cplusplus/Section19/Section19.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="3" Name="m_selectedTab"/>
   <wxString Value="/home/philip/Documents/studii/Cplusplus/Section19/Section19.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
@@ -21,6 +21,13 @@
       <wxString Value="/home/philip/Documents/studii/Cplusplus/Section19/Challenge2/main.cpp" Name="FileName"/>
       <int Value="1" Name="FirstVisibleLine"/>
       <int Value="3" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/philip/Documents/studii/Cplusplus/Section19/Challenge4/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="13" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

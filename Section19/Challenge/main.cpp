@@ -88,6 +88,7 @@ int main()
         }
     }
 
+    n_file.close();
     std::cout << std::endl << std::endl;
     return 0;
 }

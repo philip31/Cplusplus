@@ -27,7 +27,8 @@ int main() {
         in_file >> current_word;
         current_word.find(word) != string::npos? occurences++:0;
     }
-    
+
+    in_file.close();
     cout << "Number of occurences for word "<< word <<" : " << occurences << endl;
     
     cout << endl;

@@ -60,7 +60,7 @@ int main() {
         average += score;
         score = 0;
     }
-    
+    n_file.close();
     print_line();
     average /= nr_kids;
     print("Average score", average); 
