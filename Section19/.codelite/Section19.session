@@ -27,7 +27,7 @@
     <TabInfo>
       <wxString Value="/home/philip/Documents/studii/Cplusplus/Section19/Challenge4/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="13" Name="CurrentLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
